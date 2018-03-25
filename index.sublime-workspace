@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"factor"
+			],
+			[
+				"m",
+				"media"
+			],
+			[
+				"a",
+				"A"
+			],
+			[
+				"tr",
+				"trailer_youtube"
+			],
+			[
+				"t",
+				"trailer_youtube"
+			],
+			[
+				"ac",
+				"Account"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"wi",
+				"while\tWhile Loop"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hanan/Desktop/udacity-git-course/new-git-project/css/app.css",
+		"/C/Users/hanan/Desktop/udacity-git-course/new-git-project/index.html",
+		"/C/Users/hanan/Desktop/New folder (2)/Untitled attachment 00004.htm",
+		"/C/Users/hanan/Desktop/udacity-git-course/new-git-project/project.docx",
+		"/C/Users/hanan/Desktop/udacity-git-course/new-git-project/js/app.js",
+		"/C/Users/hanan/Desktop/udacity-git-course/new-git-project/.gitignore",
+		"/C/Users/hanan/Desktop/udacity-git-course/new-git-project/app.css",
+		"/C/Users/hanan/Desktop/udacity-git-course/new-git-project/app.js",
+		"/C/Users/hanan/Desktop/python/movies/media.py",
+		"/C/Users/hanan/Desktop/python/movies/entertainment.py",
+		"/C/Users/hanan/Desktop/python/movies/fresh_tomatoes.py",
+		"/C/Users/hanan/Desktop/python/pn.py",
+		"/C/Users/hanan/Desktop/python/movies/fresh_tomatoes",
+		"/C/Users/hanan/Desktop/python/send_text.py",
+		"/C/Users/hanan/Desktop/google.html",
+		"/C/Users/hanan/Desktop/python/mondala.py",
+		"/C/Users/hanan/Desktop/text.py",
+		"/C/Users/hanan/Desktop/new.py",
+		"/C/Users/hanan/Desktop/python/movies/media.pyc",
+		"/C/Users/hanan/Desktop/python/check_profanity.py",
+		"/C/Users/hanan/Desktop/python/secret_message.py",
+		"/C/Users/hanan/Desktop/python/draw_square.py",
+		"/C/Users/hanan/Desktop/python/take_a_break.py",
+		"/C/Users/hanan/Desktop/python/madlibs_generator.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
